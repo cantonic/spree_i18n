@@ -1084,3 +1084,6 @@ de:
     date_picker:
       format: 'd-m-y'
       divider: '.'
+  date:
+    formats: 
+      default: '%d.%m.%y'
